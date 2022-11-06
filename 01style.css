@@ -1,0 +1,266 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Bebas+Neue&family=Cairo&display=swap');
+/* font-family: 'Abel', sans-serif;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Cairo', sans-serif;
+
+cores: #022601, #29551A, #4f732c, #81a632, #b3e051*/
+
+h2 { font-family: 'Abel', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 2500px;
+
+}
+
+h3{
+    font-family: 'Abel', sans-serif;
+    font:bold;
+    font-size: 20px;
+    font-weight: 10px;
+}
+
+h4{
+    font-family: 'Abel', sans-serif;
+    font:bold;
+    font-size: 20px;
+    line-height: 1px;
+    font-weight: 10px;
+
+}
+    
+
+ #geral{
+        font-family: 'Bebas Neue', cursive;
+        text-align: center;
+        margin-left: 0;
+        top: 40%;
+        left: 40%;
+        font-size: 45px;
+        background: linear-gradient(
+            to right, #022601, #29551A, #4f732c, #81a632, #b3e051 );
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+    }
+    
+body{
+    font-family: 'Cairo', sans-serif;
+    margin-left: 25px;
+}
+
+p{
+    line-height: 25px;
+    margin-left: 30px;
+}
+
+#indice{
+    text-align: left;
+}
+
+.tabela ul{
+    text-align: center;
+    padding: 0px;
+}
+
+.tabela li{
+    list-style: none; 
+    margin: 10px;
+    display: inline;
+}
+
+.tabela li a {
+    padding: 5px 10px; 
+    margin:0;
+    border: 0px solid #f00; 
+    background: #29551A;
+    text-decoration: none;
+    color:#FFF;
+    /* cantos arredondados */
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+}
+.tabela li a:hover {
+    background: #b3e051;
+    color: #000; 
+    border-color: #000;
+}
+
+#indice{
+    width: 350px;
+    height: 0px;
+    border-color: #022601;
+}
+
+
+/*imagens*/
+/*apresentação*/
+#ferrovia{
+    float: right;
+    margin-right: 20px;
+    
+
+}
+#vidraria{
+    float: left;
+    margin-left: 20px;
+    height: 100px;
+    width: 400px;
+}
+
+#rua12{
+    float:right;
+    margin-right: 20px;
+}
+
+#MML{
+    float: right;
+    margin-right: 20px;
+}
+
+#atual{
+    float: left;
+    width: 420px;
+    margin-left: 20px;
+}
+/*comércio*/
+#mapa{
+    float: right;
+}
+
+#bairros{
+    float: right;
+}
+
+#arquiteto{
+    float: right;
+}
+
+#MercadoD{
+    float: right;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#colagem{
+    float: left;
+    margin-right: 20px;
+    
+}
+
+#bar{ 
+    float: right;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#museu{
+    float: right;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#padaria{
+    float: right;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#leticia{
+    float: left;
+    margin-right: 20px;
+    
+}
+
+#pão{
+    float: right;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#pizzaria{
+    float: left;
+    margin-right: 20px;
+}
+
+#espeto{
+    float: right;
+    margin-right: 20px;
+    margin-left: 20px;    
+}
+
+#BK{
+    float: left;
+    margin-right: 20px;    
+}
+
+#DD{
+    float: right;
+    margin-right: 20px;
+    margin-left: 20px;    
+}
+
+#sushi{
+    float: left;
+    margin-right: 20px;    
+}
+
+#bullguer{
+    float: right;
+    margin-right: 20px;
+    margin-left: 20px; 
+}
+
+#pelezão{
+    float: left;
+    margin-right: 20px;    
+}
+
+#teatro{
+    float: right;
+    margin-right: 20px;
+    margin-left: 20px; 
+}
+
+#sesc{
+    float: right;
+    margin-right: 20px;
+    margin-left: 20px; 
+}
+
+#autora{
+    margin-bottom: 400px;
+    margin-top: 0px;
+}
+
+#link{
+    width: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-left: 150px;
+}
+
+#rodape{
+    background-color: #022601;
+    color: #29551A;
+    width: 1322px;
+    height: 500px;
+
+}
+
+#base{
+    margin-top:px;
+}
+
+#forms{
+background-color: #b5e451;
+width: 790px;
+height: 550px;
+border-radius: 25px;
+}
+
+#enviar{
+    margin-left: 350px;
+}
